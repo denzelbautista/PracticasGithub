@@ -1,0 +1,11 @@
+Para subir archivos en github: 
+
+1. git add . (colocando el nombre o carpeta de un archivo en lugar de un punto, se sube solo ese archivo)
+             (colocando un punto se suben todos los archivos)
+2. git status (para ver los archivos que se han modificado)
+3. git commit -m "mensaje" (se coloca un mensaje para identificar el commit)
+4. git push (se suben los archivos al repositorio remoto)
+
+Para bajar archivos de github:
+1. git pull (se bajan los archivos del repositorio remoto)
+
